@@ -10,8 +10,13 @@ body {
       font-family: '고마운글꼴', sans-serif;
       background-color: #f9f9f9;
       color: #333;
-      text-align: center;
+      text-align: center; /* 글자도 중간정렬 */
       padding: 5rem;
+      display: flex;
+      justify-content: center;  /* 수평 가운데 */
+      align-items: center;      /* 수직 가운데 */
+      height: 100vh;            /* 화면 전체 높이 */
+      flex-direction: column;   /* 요소를 위에서 아래로 쌓기 */
 }
 
 h1 {

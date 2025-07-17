@@ -15,7 +15,7 @@ body {
       display: flex;
       justify-content: center;  /* 수평 가운데 */
       align-items: center;      /* 수직 가운데 */
-      height: 100vh;            /* 화면 전체 높이 */
+      min-height: 100vh;            /* 화면 전체 높이 */
       flex-direction: column;   /* 요소를 위에서 아래로 쌓기 */
 }
 

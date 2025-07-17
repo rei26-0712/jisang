@@ -13,10 +13,35 @@ body {
       text-align: center;
       padding: 5rem;
 }
+
 h1 {
+      color: #4b0082;
       font-size: 3rem;
-      color: #6c63ff;
- }
+}
+
 p {
       font-size: 1.2rem;
+      line-height: 1.6;
+}
+
+.highlight {
+      color: hotpink;
+      font-weight: bold;
+}
+
+ul {
+      background-color: #fff;
+      border: 1px solid #ccc;
+      padding: 16px;
+      border-radius: 8px;
+      width: 300px;
+}
+
+a {
+      color: royalblue;
+      text-decoration: none;
+}
+
+a:hover {
+      text-decoration: underline;
 }

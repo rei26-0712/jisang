@@ -1,0 +1,77 @@
+@font-face {
+  font-family: '고마운글꼴';
+  src: url('fonts/DungGeunMo.woff2') format('woff2'),
+       url('fonts/DungGeunMo.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+      font-family: '고마운글꼴', sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
+      padding: 20px;
+}
+
+hr {
+  border: none;
+  border-top: 2px solid #ccc;
+  margin: 2rem auto;
+  width: 100%
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 10vh;
+  padding: 1rem;
+  background-color: white;
+}
+
+header {
+  background-color: #f0f0f0;
+  padding: 20px;
+  text-align: center;
+}
+
+footer {
+  background-color: #ddd;
+  padding: 10px;
+  text-align: center;
+  font-size: 14px;
+}
+
+h1 {
+      color: #4b0082;
+      font-size: 36px;
+}
+
+p {
+      font-size: 18px;
+      line-height: 1.6;
+}
+
+.highlight {
+      color: hotpink;
+      font-weight: bold;
+}
+
+ul {
+      background-color: #fff;
+      border: 1px solid #ccc;
+      padding: 16px;
+      border-radius: 8px;
+      width: 300px;
+      text-align: center;
+}
+
+a {
+      color: royalblue;
+      text-decoration: none;
+}
+
+a:hover {
+      text-decoration: underline;
+}

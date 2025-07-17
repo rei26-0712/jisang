@@ -5,3 +5,18 @@
   font-weight: normal;
   font-style: normal;
 }
+
+body {
+      font-family: '고마운글꼴', sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
+      text-align: center;
+      padding: 5rem;
+}
+h1 {
+      font-size: 3rem;
+      color: #6c63ff;
+ }
+p {
+      font-size: 1.2rem;
+}

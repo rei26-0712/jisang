@@ -1,1 +1,7 @@
-
+@font-face {
+  font-family: 'ThankYou';
+  src: url('fonts/DungGeunMo.woff2') format('woff2'),
+       url('fonts/DungGeunMo.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}

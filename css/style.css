@@ -27,6 +27,10 @@
   --jisang-classic-grey: #868686;
 --jisang-grey: #6B6B6B;
 --jisang-dark-grey: #4E4E4E;
+
+  --jisang-classic-silver: #9C9C9C;
+--jisang-silver: #B7B7B7;
+--jisang-light-silver: #D4D4D4;
 }
 
 * {
@@ -121,7 +125,7 @@ main {
   justify-content: center;
   min-height: 10vh;
   padding: 1rem;
-  background-color: var(--jisang-classic-grey);
+  background-color: var(--jisang-classic-silver);
 }
 
 .container {

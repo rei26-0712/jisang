@@ -156,7 +156,6 @@ main {
 .girl14 { background-color: var(--girl14-lilac); }
 
 header {
-  margin: 10px;
   background-color: var(--jisang-white);
   padding: 20px;
   text-align: center;

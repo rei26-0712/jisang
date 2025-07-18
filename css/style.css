@@ -136,7 +136,7 @@ main {
 
 .box {
   flex: 1;
-  aspect-ratio: 3 / 2;
+  aspect-ratio: 4 / 2;
   padding: 40px;
   color: var(--jisang-white);
   text-align: center;
@@ -199,11 +199,6 @@ p {
 
 .jisang {
       color: var(--jisang-navy);
-      font-weight: bold;
-}
-
-.girl14 {
-      color: var(--girl14-lilac);
       font-weight: bold;
 }
 

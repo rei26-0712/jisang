@@ -202,6 +202,11 @@ p {
       font-weight: bold;
 }
 
+.girl14 {
+      color: var(--girl14-lilac);
+      font-weight: bold;
+}
+
 a {
       color: var(--jisang-blue);
       text-decoration: none;

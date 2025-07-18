@@ -6,6 +6,10 @@
   font-style: normal;
 }
 
+:root {
+  --main-text-color: #222;
+  --jisang-navy: #335285;
+}
 body {
       font-family: '고마운글꼴', sans-serif;
       background-color: #f9f9f9;
@@ -54,7 +58,7 @@ p {
 }
 
 .highlight {
-      color: hotpink;
+      color: var(--jisang-navy);
       font-weight: bold;
 }
 

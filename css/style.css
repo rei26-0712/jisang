@@ -14,6 +14,13 @@
   --anima-carmine: #F8757A;
   --dohwa-green: #ACF0AF;
 
+--jisang-red: #F92F39;
+--jisang-orange: #FFAA43;
+--jisang-yellow: #FFDF34;
+--jisang-green: #42DB48;
+--jisang-blue: #588CE0;
+--jisang-violet: #6C25DF;
+  
   --jisang-white: #EFEFEF;
   --jisang-black: #333333;
 }
@@ -168,7 +175,7 @@ ul {
 }
 
 a {
-      color: var(--jisang-black);
+      color: var(--jisang-blue);
       text-decoration: none;
 }
 

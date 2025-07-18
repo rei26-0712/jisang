@@ -192,6 +192,11 @@ p {
       font-weight: bold;
 }
 
+.highlight-in-light {
+      color: var(--jisang-violet);
+      font-weight: bold;
+}
+
 .lowlight {
       color: var(--jisang-black);
 }

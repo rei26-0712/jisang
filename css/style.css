@@ -7,8 +7,12 @@
 }
 
 :root {
-  --main-text-color: #222;
-  --jisang-navy: #335285;
+  --jisang-navy: #335285
+  --rei-ultramarine: #4670B4
+  --jayeon-lavender: #C0AAE6
+  --girl14-lilac: #996AE4
+  --anima-carmine: #F8757A
+  --dohwa-green: #ACF0AF
 }
 body {
       font-family: '고마운글꼴', sans-serif;

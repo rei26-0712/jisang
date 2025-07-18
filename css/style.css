@@ -14,6 +14,32 @@
   --anima-carmine: #F8757A;
   --dohwa-green: #ACF0AF;
 }
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #1976d2;
+  color: white;
+  padding: 20px 40px;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.menu a {
+  color: white;
+  text-decoration: none;
+  margin-left: 20px;
+  font-weight: 500;
+}
+
+.menu {
+  display: flex;
+}
+
 body {
       font-family: '고마운글꼴', sans-serif;
       background-color: #f9f9f9;

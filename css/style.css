@@ -202,19 +202,6 @@ p {
       font-weight: bold;
 }
 
-.jisang-image {
-  margin: 0.6rem;
-}
-
-ul {
-      background-color: #fff;
-      border: 1px solid #ccc;
-      padding: 16px;
-      border-radius: 8px;
-      width: 300px;
-      text-align: center;
-}
-
 a {
       color: var(--jisang-blue);
       text-decoration: none;

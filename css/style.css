@@ -99,7 +99,6 @@
     }
 
     .content {
-      margin: 20px 0 0 0;
       padding: 40px;
       line-height: 1.6;
     }
@@ -157,6 +156,7 @@ main {
 .girl14 { background-color: var(--girl14-lilac); }
 
 header {
+  margin: 20px;
   background-color: var(--jisang-white);
   padding: 20px;
   text-align: center;

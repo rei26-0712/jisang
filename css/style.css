@@ -184,9 +184,7 @@ main {
 .caution {
       background-color: var(--jisang-green);
 }
-.caution {
-      background-color: var(--jisang-violet);
-}
+.seven {background-color: var(--jisang-violet);}
 
 header {
   background-color: var(--jisang-white);

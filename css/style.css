@@ -175,6 +175,9 @@ main {
 .rei { background-color: var(--rei-ultramarine); }
 .jayeon {  background-color: var(--jayeon-lavender);}
 .dohwa {  background-color: var(--dohwa-green);}
+.jisang-background {
+      background-color: var(--jisang-navy);
+}
 
 header {
   background-color: var(--jisang-white);
@@ -225,6 +228,8 @@ p {
       color: var(--jisang-navy);
       font-weight: bold;
 }
+
+
 
 a {
       color: var(--jisang-blue);

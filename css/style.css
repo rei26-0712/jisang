@@ -51,6 +51,10 @@
   font-weight: bold;
 }
 
+  .menu a:hover {
+     text-decoration: none;
+  }
+
 .menu {
   display: flex;
 }

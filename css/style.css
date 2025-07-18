@@ -140,9 +140,9 @@ main {
   border-radius: 8px;
 }
 
-.red { background-color: crimson; }
-.green { background-color: seagreen; }
-.blue { background-color: royalblue; }
+.red { background-color: var(--anima-carmine); }
+.green { background-color: var(--rei-ultramarine); }
+.blue { background-color: var(--girl14-lilac); }
 
 header {
   background-color: var(--jisang-white);

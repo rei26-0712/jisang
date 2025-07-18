@@ -1,3 +1,30 @@
+:root {
+  --jisang-navy: #335285;
+  --rei-ultramarine: #4670B4;
+  --jayeon-lavender: #C0AAE6;
+  --girl14-lilac: #996AE4;
+  --anima-carmine: #F8757A;
+  --dohwa-green: #ACF0AF;
+
+--jisang-red: #F92F39;
+--jisang-orange: #FFAA43;
+--jisang-yellow: #FFDF34;
+--jisang-green: #42DB48;
+--jisang-blue: #588CE0;
+--jisang-violet: #6C25DF;
+  
+  --jisang-white: #EFEFEF;
+  --jisang-black: #333333;
+
+  --jisang-classic-grey: #868686;
+--jisang-grey: #6B6B6B;
+--jisang-dark-grey: #4E4E4E;
+
+  --jisang-dark-silver: #9C9C9C;
+--jisang-silver: #B7B7B7;
+--jisang-classic-silver: #D4D4D4;
+}
+
 .navbar {
   background-color: var(--girl14-lilac);
 }

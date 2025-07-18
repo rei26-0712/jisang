@@ -110,7 +110,7 @@ main {
   justify-content: center;
   min-height: 10vh;
   padding: 1rem;
-  background-color: var(--jisang-white);
+  background-color: var(--jisang-black);
 }
 
 header {

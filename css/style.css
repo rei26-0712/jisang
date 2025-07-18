@@ -46,15 +46,28 @@
 }
 
 .menu a {
-  color: white;
+  color: var(--jisang-white);
   text-decoration: none;
   margin-left: 20px;
-  font-weight: 500;
+  font-weight: bold;
 }
 
 .menu {
   display: flex;
 }
+
+    @media (max-width: 600px) {
+      .navbar {
+        flex-direction: column;
+        align-items: flex-start;
+        height: auto;
+        padding: 10px 20px;
+      }
+
+      .navbar a {
+        margin: 10px 0;
+      }
+    }
 
 body {
       font-family: '고마운글꼴', sans-serif;

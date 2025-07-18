@@ -13,14 +13,17 @@
   --girl14-lilac: #996AE4;
   --anima-carmine: #F8757A;
   --dohwa-green: #ACF0AF;
+
+  --jisang-white: #EFEFEF;
+  --jisang-black: #333333;
 }
 
 .navbar {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #1976d2;
-  color: white;
+  background-color: var(--jisang-navy);
+  color: var(--jisang-white);
   padding: 20px 40px;
 }
 

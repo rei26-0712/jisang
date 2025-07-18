@@ -41,7 +41,6 @@
 }
 
 .logo {
-  font-size: 24px;
   font-weight: bold;
 }
 
@@ -67,6 +66,11 @@
       .navbar a {
         margin: 10px 0;
       }
+    }
+
+    .content {
+      padding: 40px;
+      line-height: 1.6;
     }
 
 body {

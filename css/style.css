@@ -52,7 +52,7 @@ footer {
 }
 
 h1 {
-      color: #4b0082;
+      color: var(--jisang-navy);
       font-size: 36px;
 }
 

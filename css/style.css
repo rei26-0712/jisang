@@ -177,9 +177,10 @@ main {
 .dohwa {  background-color: var(--dohwa-green);}
 
 header {
-  background-color: var(--jisang-black);
+  background-color: var(--jisang-white);
   padding: 20px;
   text-align: center;
+  color: var(--jisang-black);
 }
 
 footer {

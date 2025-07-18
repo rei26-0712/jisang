@@ -178,6 +178,12 @@ main {
 .jisang-background {
       background-color: var(--jisang-navy);
 }
+.warning {
+      background-color: var(--jisang-red);
+}
+.caution {
+      background-color: var(--jisang-green);
+}
 
 header {
   background-color: var(--jisang-white);

@@ -110,17 +110,17 @@ main {
   justify-content: center;
   min-height: 10vh;
   padding: 1rem;
-  background-color: white;
+  background-color: var(--jisang-white);
 }
 
 header {
-  background-color: #f0f0f0;
+  background-color: var(--jisang-white);
   padding: 20px;
   text-align: center;
 }
 
 footer {
-  background-color: #ddd;
+  background-color: var(--jisang-white);
   padding: 10px;
   text-align: center;
   font-size: 14px;

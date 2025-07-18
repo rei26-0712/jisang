@@ -135,8 +135,7 @@ main {
 }
 
 .box {
-  flex: 1 1 45%;
-  min-width: 140px;
+  flex: 1;
   aspect-ratio: 6 / 2;
   padding: 40px;
   color: var(--jisang-white);
@@ -150,27 +149,6 @@ main {
   color: var(--jisang-white);
   text-decoration: none;
   font-weight: bold;
-}
-
-@media (max-width: 600px) {
-  .container {
-    gap: 10px;
-  }
-
-  .box {
-    flex: 1 1 100%;
-    font-size: 1.1rem;
-    padding: 30px 20px;
-  }
-
-  h1, h2 {
-    font-size: 1.2rem;
-  }
-
-  nav a {
-    display: block;
-    margin: 5px 0;
-  }
 }
 
 .anima { background-color: var(--anima-carmine); }

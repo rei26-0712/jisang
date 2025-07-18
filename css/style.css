@@ -186,6 +186,10 @@ p {
       font-weight: bold;
 }
 
+.lowlignt {
+      color: var(--jisang-black);
+}
+
 .jisang {
       color: var(--jisang-navy);
       font-weight: bold;

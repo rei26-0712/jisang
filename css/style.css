@@ -120,6 +120,26 @@ main {
   background-color: var(--jisang-white);
 }
 
+.container {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.box {
+  flex: 1;
+  padding: 40px;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.5rem;
+  border-radius: 8px;
+}
+
+.red { background-color: crimson; }
+.green { background-color: seagreen; }
+.blue { background-color: royalblue; }
+
 header {
   background-color: var(--jisang-white);
   padding: 20px;

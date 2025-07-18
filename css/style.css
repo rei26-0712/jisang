@@ -132,11 +132,12 @@ main {
   display: flex;
   justify-content: space-between;
   gap: 40px;
+  margin: 1rem;
 }
 
 .box {
   flex: 1;
-  aspect-ratio: 6 / 2;
+  aspect-ratio: 3 / 2;
   padding: 40px;
   color: var(--jisang-white);
   text-align: center;
